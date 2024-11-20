@@ -3,7 +3,7 @@ import sys
 import os
 
 PORT = 5050
-HOST = "10.20.200.203"
+HOST = socket.gethostbyname(socket.gethostname())
 SEPARATOR = '<>'
 BUFFER_SIZE = 1024
 FORMAT = 'utf-8'
