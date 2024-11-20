@@ -1,0 +1,2 @@
+# Distributed-File-Orchestration-and-Synchronization-Multi-Node-Data-Transfer-Framework
+A Python-based client-server application using Unix sockets, supporting concurrent connections and secure file management. Features include user authentication, file upload/download, viewing (first 1024 bytes), deletion, and listing within user-specific directories. Ensures data integrity, scalability, and graceful shutdown.
